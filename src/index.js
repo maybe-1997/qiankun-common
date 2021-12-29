@@ -1,5 +1,3 @@
-import store from './store';
+import globalRegister from './store';
 
-export {
-  store
-}
+export default globalRegister;

@@ -1,5 +1,3 @@
 import globalRegister from './global-register';
 
-export {
-  globalRegister
-}
+export default globalRegister;
