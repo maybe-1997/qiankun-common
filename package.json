@@ -1,0 +1,19 @@
+{
+  "name": "qiankun-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maybe-1997/qiankun-common.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maybe-1997/qiankun-common/issues"
+  },
+  "homepage": "https://github.com/maybe-1997/qiankun-common#readme"
+}
